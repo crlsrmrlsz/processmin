@@ -1,0 +1,1 @@
+having a dataframewith these columns id_exp: process id,	desc_tramite: initial state, 	fecha_tramite: datetime initial state, 	next_tramite: final state, 	fecha_fin: datetime final state. representing process execution logs.

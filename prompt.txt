@@ -1,0 +1,11 @@
+having a dataframewith these columns id_exp: process id,	desc_tramite: initial state, 	fecha_tramite: datetime initial state, 	next_tramite: final state, 	fecha_fin: datetime final state. representing process execution logs.
+
+having a dataframe representing process execution logswith these columns:
+ id_exp: process id,
+ desc_tramite: initial state,
+ fecha_tramite: datetime initial state,
+ next_tramite: final state,
+ fecha_fin: datetime final state,
+ duracion: time in days between desc_tramite and next_tramite;  
+ how can i add a new column to links having the mean time on each transition, so then i can write it in the labels?, be concise
+
