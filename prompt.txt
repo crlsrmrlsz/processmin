@@ -9,3 +9,11 @@ having a dataframe representing process execution logswith these columns:
  duracion: time in days between desc_tramite and next_tramite;  
  how can i add a new column to links having the mean time on each transition, so then i can write it in the labels?, be concise
 
+
+
+I am attaching two csv files: 
+1:"codprov.csv", containing spain provinces ('CODIGO': code according to INE, spain institute of statistics';LITERAL':name). 
+2:"iso3166_2_es_prov.csv", containing ISO 3166-2 codes of the same provinces ('cod 3166-2': iso code, 	'nombre': province name). 
+Could you create a table with the relation of INE code, and ISO code, and name for each province. 
+Take into account that may have differences in the names on each csv, capitals and maybe other symbols. 
+
