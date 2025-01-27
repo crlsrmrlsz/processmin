@@ -1,2 +1,4 @@
-data/tramita/full
-data/geo
+data/tramita/full/
+data/geo/
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
